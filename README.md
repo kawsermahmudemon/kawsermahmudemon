@@ -163,3 +163,13 @@ I believe the best way to learn is by building products that solve real-world pr
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kawsermahmudemon&theme=tokyo-night"/>
 
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kawsermahmudemon/kawsermahmudemon/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
