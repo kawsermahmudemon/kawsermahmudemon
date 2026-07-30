@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,30:2563EB,70:3B82F6,100:38BDF8&text=MD.%20Emon%20Sarker&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Artificial%20Intelligence%20•%20Full%20Stack%20Development%20•%20Cybersecurity&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,30:2563EB,70:3B82F6,100:38BDF8&text=Md.%20Emon%20Sarker&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Artificial%20Intelligence%20•%20Full%20Stack%20Development%20•%20Cybersecurity&descAlignY=58&animation=fadeIn"/>
 
 # 👋 Welcome to my GitHub
 
