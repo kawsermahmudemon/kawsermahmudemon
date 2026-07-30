@@ -30,7 +30,7 @@
 
 # 🚀 About Me
 
-I am **MD. Emon Sarker**, a Computer Science student passionate about building modern software powered by Artificial Intelligence.
+I am **Md. Emon Sarker**, a Computer Science student passionate about building modern software powered by Artificial Intelligence.
 
 My interests span **AI, Cybersecurity, Full-Stack Engineering, Cloud Computing, and Open Source**. I enjoy transforming ideas into practical software while continuously improving my technical skills through hands-on projects.
 
